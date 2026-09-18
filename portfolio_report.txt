@@ -1,0 +1,31 @@
+PORTFOLIO REPORT
+==================================================
+
+Stock: AAPL
+Quantity: 8
+Buy Price: ₹180.00
+Current Price: ₹400.00
+Investment: ₹1440.00
+Current Value: ₹3200.00
+Profit/Loss: ₹1760.00
+--------------------------------------------------
+Stock: TSLA
+Quantity: 2
+Buy Price: ₹250.00
+Current Price: ₹270.00
+Investment: ₹500.00
+Current Value: ₹540.00
+Profit/Loss: ₹40.00
+--------------------------------------------------
+Stock: MSFT
+Quantity: 3
+Buy Price: ₹420.00
+Current Price: ₹440.00
+Investment: ₹1260.00
+Current Value: ₹1320.00
+Profit/Loss: ₹60.00
+--------------------------------------------------
+
+Total Investment: ₹3200.00
+Current Value: ₹5060.00
+Overall Profit/Loss: ₹1860.00
