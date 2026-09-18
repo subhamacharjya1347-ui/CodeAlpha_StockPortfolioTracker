@@ -90,6 +90,7 @@ Formula:
 
 ```text
 Profit/Loss = Current Value - Investment
+```
 
 ## 📸 Screenshots
 
