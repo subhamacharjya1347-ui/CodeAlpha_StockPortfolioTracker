@@ -90,3 +90,26 @@ Formula:
 
 ```text
 Profit/Loss = Current Value - Investment
+
+## 📸 Screenshots
+
+### 🖥️ Main Menu
+![Main Menu](screenshots/main_menu.png)
+
+### 📈 Available Stocks
+![Available Stocks](screenshots/available_stocks.png)
+
+### 📊 Portfolio Dashboard
+![Portfolio Dashboard](screenshots/portfolio_dashboard.png)
+
+### 💰 View Portfolio
+![View Portfolio](screenshots/view_portfolio.png)
+
+### 📈 Profit / Loss
+![Profit Loss](screenshots/profit_loss.png)
+
+### 🔄 Transaction History
+![Transaction History](screenshots/transaction_history.png)
+
+### 📄 Portfolio Report
+![Portfolio Report](screenshots/portfolio_report.png)
