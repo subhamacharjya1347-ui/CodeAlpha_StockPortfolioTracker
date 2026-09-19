@@ -2,7 +2,7 @@
 ![Tests](https://img.shields.io/badge/Tests-6%2F6%20Passed-brightgreen)
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-![Code Coverage](https://img.shields.io/badge/Code%20Coverage-20%25-red)
+
 
 A Python-based Smart Stock Portfolio Tracker developed as part of the CodeAlpha Internship.
 
