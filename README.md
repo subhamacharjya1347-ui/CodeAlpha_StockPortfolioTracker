@@ -1,4 +1,5 @@
 # Smart Stock Portfolio Tracker
+![Tests](https://img.shields.io/badge/Tests-6%2F6%20Passed-brightgreen)
 
 A Python-based Smart Stock Portfolio Tracker developed as part of the CodeAlpha Internship.
 
