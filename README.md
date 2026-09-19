@@ -113,4 +113,4 @@ Profit/Loss = Current Value - Investment
 ![Transaction History](screenshots/transaction_history.png)
 
 ### 📄 Portfolio Report
-![Portfolio Report](https://raw.githubusercontent.com/subhamacharjya1347-ui/CodeAlpha_StockPortfolioTracker/e653858/screenshots/portfolio_report.png)
+![Portfolio Report](screenshots/portfolio_report_final.png)
